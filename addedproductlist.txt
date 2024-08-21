@@ -1,0 +1,25 @@
+
+Product Name:New
+Product type:Geans
+Product Price:
+Product Name:ZZZZ
+Product type:Shirt
+Product Price:
+Product Name:Product Name
+Product type:Others
+Product Price:
+Product Name:Name
+Product type:Jacket
+Product Price:399
+Product Name:Name
+Product type:Jacket
+Product Price:399
+Product Name:Name
+Product type:Jacket
+Product Price:23434
+Product Name:Name
+Product type:T-Shirt
+Product Price:300
+Product Name:Name
+Product type:T-Shirt
+Product Price:399
